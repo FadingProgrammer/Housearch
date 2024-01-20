@@ -1,16 +1,4 @@
-# housearch
+# Housearch
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Geo-estate explorer application for Islamabad and Rawalpindi.
+Projection of available houses and plots in different areas of twin cities on google maps. The individual markers representing plots and houses depicts the minimum and maximum price ranges of the properties in the area.
